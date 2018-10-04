@@ -6,8 +6,7 @@ java 版CMS系统、基于java技术研发的内容管理系统、功能：栏�
 
 特点：支持多站点、可以根据需求添加手机站、pc站。
 
-项目地址：https://gitee.com/oufu/ofcms   QQ 群: ①185948055 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=9c5f0bdc44402195be254668a80a6c5eeebb06f0336e8c5be26878930b88c672"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="OFCMS技术交流" title="OFCMS技术交流"></a> 
-欢迎喜欢开源的朋友一起加入，共同学习、群里有相关文档。
+项目地址：https://gitee.com/oufu/ofcms
 
 #### 目前版本v1.1
 前台：
@@ -31,18 +30,6 @@ java 版CMS系统、基于java技术研发的内容管理系统、功能：栏�
 - 6、界面管理定时任务、不需求重启，自动，手动触发。
 - 7、模板在线编辑，在线上传模板文件。
 - 8、增加api接口模快，强大的封装。接口编写简单。
-
-#### 项目团队
-
-firechou ([https://gitee.com/firechou](https://gitee.com/firechou))
- 
-王雪峰 ([https://gitee.com/wangxfsh](https://gitee.com/wangxfsh))
-
-大寶   ([https://gitee.com/zhouzhangl](https://gitee.com/zhouzhangl))
- 
-姚杰  ([https://gitee.com/yaojiecd](https://gitee.com/yaojiecd))
-
-abpai ([https://gitee.com/abpai](https://gitee.com/abpai))
 
 #### 项目功能
 
